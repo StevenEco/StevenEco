@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-My name is **Zhiqiang Li**
-
 My name is **Xiang'an Chen**
 
 - 💕 Open source enthusiast.
